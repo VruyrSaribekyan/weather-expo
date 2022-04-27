@@ -1,0 +1,13 @@
+{
+   "expo": {
+    "name": "Weather",
+    "icon": "./assets/w.png",
+    "version": "1.0.0",
+    "slug": "exanaky-hima",
+   
+    "android": {
+      "package": "com.yourcompany.yourappname",
+      "versionCode": 1
+    }
+   }
+ }
